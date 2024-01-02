@@ -20,7 +20,7 @@ summaryLength = 70
   icon512 = "/delphi-software-512.png"
   
   # Format dates with Go's time formatting
-  dateFormat = "January 2006"
+  dateFormat = "2006.01"
 
   posts = "events"
   showTags = true
