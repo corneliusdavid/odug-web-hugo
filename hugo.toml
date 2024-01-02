@@ -1,0 +1,73 @@
+baseURL = 'https://odug.org/'
+languageCode = 'en-us'
+title = 'Oregon Delphi User Group'
+theme = 'pascalinia'
+paginate = 25
+summaryLength = 70
+
+[taxonomies]
+  tag  = 'Tags'
+  meetingsbyyear = 'Meetings by Year'
+
+
+[params]
+  description = 'Oregon Delphi User Group'
+  
+  logo = "/delphi-software.svg"
+  svgicon = "/delphi-software.svg"
+  favicon = "delphi-software-32.png"
+  faviconIco = "/delphi-software-32.ico"
+  icon512 = "/delphi-software-512.png"
+  
+  # Format dates with Go's time formatting
+  dateFormat = "January 2006"
+
+  posts = "events"
+  showTags = true
+  showRss = true
+  showLinks = false
+  showPostsLink = false
+  paperCards = true
+  
+  titleFontSizeMultiplier = 1.1
+  mainFontSizeMultiplier = 1.0
+
+  # Style options: default (light-blue), blue, green, marsala, pink, red, turquoise, violet
+  style = "violet"
+
+[params.widgets]
+    tags = true
+    search = true
+
+[params.see_more]
+    enable = false
+    
+[params.clients]
+    enable = false
+    
+[params.recent_posts]
+    enable = true
+    
+[params.footer.recent_posts]
+    enable = true
+
+[params.testimonials]
+    enable = false
+
+[markup]
+  [markup.tableOfContents]
+    endLevel = 4
+    ordered = false
+    startLevel = 3
+
+[menu]
+
+# Main menu
+[[menu.main]]
+    name       = "About Us"
+    url        = "/about"
+    weight     = 3
+[[menu.main]]
+    name       = 'RSS'
+    url        = "/index.xml"
+    wieght     = 99
