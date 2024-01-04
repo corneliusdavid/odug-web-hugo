@@ -11,7 +11,6 @@ tags:
 
 Tonight, we'll explore the [Go](https://go.dev) programming language a little, comparing its structure and object-oriented features with Delphi.
 
-*There is no picture in the article anymore--i'ts only mentioned in the header!*
 
 ## PRESENTER ##
 
