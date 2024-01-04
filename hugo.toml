@@ -1,4 +1,4 @@
-baseURL = 'https://odug.org/'
+baseURL = 'https://odug.org'
 languageCode = 'en-us'
 title = 'Oregon Delphi User Group'
 theme = 'pascalinia'
@@ -7,11 +7,9 @@ summaryLength = 70
 
 [taxonomies]
   tag  = 'Tags'
-  meetingsbyyear = 'Meetings by Year'
-
 
 [params]
-  description = 'Oregon Delphi User Group'
+  description = 'Oregon Delphi User Group, a community-sponsored group of Delphi developers with free monthly meetings and professional fellowship.'
   
   logo = "/delphi-software.svg"
   svgicon = "/delphi-software.svg"
