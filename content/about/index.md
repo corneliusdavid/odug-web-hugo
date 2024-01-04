@@ -11,7 +11,7 @@ Feel free to join the low-volume mailing list to be notified of meetings and par
 
 ## Email List ##
 
-To be notified about when and where our meetings will be and to participate in the low-volume discussions that occasionally arise, please join our email list hosted at [groups.io](https://groups.io/g/odug). It's totally free and you never get any solicitations to pay for anything nor do you need to watch any ads. Just click the link below:
+To be notified about when and where our meetings will be and to participate in the low-volume discussions that occasionally arise, please join our email list hosted at [groups.io](https://groups.io/g/odug). It's totally free and you never get any solicitations to pay for anything nor do you need to watch any ads. Just follow the link below to the Groups.io site then click the "**Apply for Membership**" button:
 
 [![](groupsio-logo.png)](https://groups.io/g/odug)
 

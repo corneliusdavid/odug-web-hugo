@@ -2,6 +2,7 @@
 title: "Delphi Magic!"
 tags:
 - 2009
+- Slides
 date: "2009-05-01T18:00:00-08:00"
 ---
 
@@ -26,6 +27,8 @@ Here is a preview of some of the topics to be covered:
 - *And more!*
 
 We will move fast, but there will be references to several CodeRage sessions made by well-known speakers over the last few years.  These sessions have been downloaded and will be available to copy to your memory stick (AKA jump drive) after the meeting.
+
+***Download the [PowerPoint Slides](/presentations/2009-05_DelphiMagic/DelphiMagic.pptx)***
 
 ## PRESENTER ##
 

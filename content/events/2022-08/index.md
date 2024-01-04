@@ -3,6 +3,7 @@ title: "Add Full Text Search to Your Delphi Web Apps"
 date: "2022-08-24T14:58:44-07:00"
 tags:
 - 2022
+- Slides
 image: noun-database-search-4395219-71D358.svg
 imageWidth: 200
 ---
@@ -23,6 +24,8 @@ Some of the highlights will include:
 - How to cater for beginner through to advanced users.
  
 Ann will be available for any questions we may have about the components or the server app show-cased during the presentation.
+
+***Download the [ODUG Talk PDF](/presentations/2022-08_Rubicon/ODUG_Talk_2022-08-17_Rev4.pdf)***
 
 ## PRESENTER ##
 

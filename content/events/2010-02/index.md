@@ -1,10 +1,8 @@
 ---
 title: "Delphi 2010"
-
 tags:
 - 2010
-- Homer Jones
-- Database
+- Slides
 date: "2010-03-01T18:00:00-08:00"
 image: D2010_radtour.png
 ---
@@ -37,6 +35,8 @@ RAD Studio 2010 helps you go further and get there faster with more than 120 new
  - DataSnap callbacks, filtering, HTTP, REST and JSON support
 
 Come to this exciting event and learn more about the latest product offerings from Embarcadero Technologies
+
+***Download the [PowerPoint Slides](/presentations/2010-02_Delphi2010/090731_Delphi_2010_Launch_Seminar.pptx)***
 
 ## PRESENTER ##
 

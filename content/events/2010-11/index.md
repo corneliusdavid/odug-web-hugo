@@ -1,5 +1,5 @@
 ---
-title: "Delphi 2010"
+title: "Delphi XE"
 tags:
 - 2010
 - Delphi Release

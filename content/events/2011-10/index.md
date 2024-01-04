@@ -1,6 +1,6 @@
 ---
 title: "RAD Studio XE2 World Tour!"
-date: "2011-11-08T13:51:04-07:00"
+date: "2011-10-08T13:51:04-07:00"
 tags:
 - 2011
 - Delphi Release

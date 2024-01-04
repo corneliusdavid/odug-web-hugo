@@ -17,7 +17,7 @@ The new Message Dialog has the same syntax as the standard `MessageDlg`, but has
 
 A demonstration of this new message dialog will include a code review, and instructions for creating a rich text message. Join us for pizza or salad and learn how to enhance your application messages.
 
-**POST MEETING NOTE**: Homer has provided a copy of his source code for this demonstration, along with comments and a demo app. It was written in Delphi 2007 but should work with any newer version: [ABSMessageDialog.zip](https://odug.org/files/presentations/ABSMessageDialog.zip)
+**POST MEETING NOTE**: Homer has provided a copy of his source code for this demonstration, along with comments and a demo app. It was written in Delphi 2007 but should work with any newer version: [ABSMessageDialog.zip](/files/presentations/2023_NewMessageBox/ABSMessageDialog.zip)
 
 ## PRESENTER ##
 
