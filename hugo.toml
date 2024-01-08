@@ -26,6 +26,7 @@ summaryLength = 70
   showLinks = false
   showPostsLink = false
   paperCards = true
+  imageInArticlePreview = false  # show images in article preview; default false
   
   titleFontSizeMultiplier = 1.1
   mainFontSizeMultiplier = 1.0
