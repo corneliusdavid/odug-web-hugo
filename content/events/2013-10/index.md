@@ -7,8 +7,6 @@ tags:
 image: RADXE5_iOSAndroid_205x170.jpg
 ---
 
-## TOPIC ##
-
 Embarcadero's Delphi XE5 Tour!
 
 *The evening event has been CANCELLED! Instead, you are invited to Ruth's Chris Steak House in Portland at noon.*  Because there were two events on this date and far many more people registered with Embarcadero for the noon event than the evening event, Embarcadero has eliminated the evening one.  There will not be any meeting at the Fanno Creek Brew Pub in December.

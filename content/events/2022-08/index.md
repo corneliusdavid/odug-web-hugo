@@ -8,8 +8,6 @@ image: noun-database-search-4395219-71D358.svg
 imageWidth: 200
 ---
 
-## TOPIC ##
-
 In August, we'll be honored with a special guest, [Ann Lynnworth](https://www.href.com/aml), co-founder of [HREF Tools](https://www.href.com) who will talk to us about their full-text search component, [Rubicon](https://www.href.com/rubicon). We will meet **online** in August in order to host Ann who will be presenting to us remotely. Here's an introduction to the topic:
 
 "Rubicon allows Delphi and C++Builder developers to add full-text search capabilities to their database applications, retaining control of data and indexing and providing both simple wild-card queries and complex search expressions. The components work with all major databases supported by RAD Studio, and even text, RTF, and HTML files. Results can be ranked, matching words automatically highlighted, and with Rubicon's pre-built indices, most searches take less than 1/10th of a second."

@@ -7,8 +7,6 @@ date: "2010-03-01T18:00:00-08:00"
 image: D2010_radtour.png
 ---
 
-## TOPIC ##
-
 Delphi® is one of the most respected and widely used Rapid Application Development (RAD) environments today. Over 1.7 million developers worldwide choose Delphi over other tools because Delphi radically speeds desktop, workstation, touch, kiosk, and Web application development without sacrificing an ounce of programming power or control. Applications built with Delphi are lightning fast, compact, provide rich UIs, and can connect with virtually any database or data source “out-of-the-box”.
 
 RAD Studio 2010 helps you go further and get there faster with more than 120 new and enhanced features that help you finish projects faster and reach more users. New and enhanced features include:

@@ -7,8 +7,6 @@ tags:
 image: SteemaSoftware.png
 ---
 
-## TOPICS ##
-
 This month, we have a couple of topics to cover. The first presentation will cover **manipulating meta files**, including reading them from a database, displaying them properly on various sized screens, and preparing them for printing. The really cool thing is a metafile permits consistent quality report printing regardless of monitor resolution, aspect ratio, or user selected enlargement (125%, 150%, etc.). They can be used with any report writer that supports a TImage equivalent.  Homer Jones will share his experiences with us.
 
 Our second presentation will be a demo of the **TeeChart components** by [Steema Software](https://www.steema.com).  You will see how to add charting to your application and see some demos that come with the product.  David Cornelius will be talking about this component set.

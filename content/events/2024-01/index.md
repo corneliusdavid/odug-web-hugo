@@ -7,8 +7,6 @@ image: hugo-logo-wide.png
 imageWidth: 200
 ---
 
-## TOPIC ##
-
 [A year ago](/events/2023-01/), David mentioned a growing interest in building websites using [Hugo](https://gohugo.io/) and studying its underlying Go programming language; we took a look at both briefly. After building three small sites from scratch, he converted an existing site built with Drupal; this ODUG website was the result of that effort. A theme was found and modified to make the meeting notices look like Pascal procedures.
 
 It took a bunch of work and that experience will be shared, along with some of the details of how the site is put together, at the January meeting.

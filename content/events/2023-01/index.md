@@ -7,8 +7,6 @@ tags:
 - Go Programming Language
 ---
 
-## TOPIC ##
-
 Tonight, we'll explore the [Go](https://go.dev) programming language a little, comparing its structure and object-oriented features with Delphi.
 
 

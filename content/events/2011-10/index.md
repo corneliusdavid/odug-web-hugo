@@ -7,8 +7,6 @@ tags:
 image: radxe2_worldtour_banner_2_680x150.jpg
 ---
 
-## PRESENTATION ##
-
 The word is out. The biggest and best Delphi, C++Builder and RAD Studio release is coming soon. Join us at this free event to get a first-hand look at all the new RAD capabilities you’ve been asking for and more.
 
 With RAD Studio XE2, you will be able to create 64-bit Delphi applications to take advantage of the latest hardware, access more memory, and push the performance envelope. You will be able to deploy your applications to Windows and Mac and more. And with FireMonkey™, the GPU-powered next-generation application platform, you’ll be able to create visually stunning HD and 3D business applications that are more immersive and interactive than anything on the market.

@@ -8,8 +8,6 @@ date: "2007-05-01T18:00:00-08:00"
 image: delphi2007launchtour.png
 ---
 
-## TOPIC ##
-
 *Experience the CodeGear products first-hand in Portland!*
 
 You will be provided with a CodeGear update, as well as presentations and demonstations showcasing the new products.

@@ -7,8 +7,6 @@ tags:
 image: ABSShowMessage.png
 ---
 
-## TOPIC ##
-
 Homer Jones created a new Message Dialog that solves problems with the standard Delphi 2007 ones--and even the latest ones. The two main problems are: 1) they can be hidden behind other windows, and 2) they don't appear centered on the application's main form, even when Position is set to `poMainFormCenter` (that seems to have been fixed in later Delphi versions, but the former is still an issue). When a dialog box is hidden, the app freezes; they are modal, but the user can't respond because it's hidden.
 
 A third problem has to do with the message itself. The standard dialogs have no way to gracefully add emphasis to critical parts of the message. It's important that messages do more than report errors. They should be instructive. If a user error occurs, it's just smart programming to tell them how to avoid it in the future, or how to fix it, or where to find more information. If you do that, your phone rings less.

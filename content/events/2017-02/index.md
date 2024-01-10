@@ -8,8 +8,6 @@ tags:
 Image: devart_logo.png
 ---
 
-## TOPIC ##
-
 [DevArt Software](https://www.devart.com) is once again sponsoring our meeting and will offer the standard 20% discount and one product license give-a-way to a randomly chosen attendee. We will have a discussion about their [Data Access Tools](https://www.devart.com/dac.html), or DAC for short.  I will show some demos, some prepared by DevArt, some written by myself. They will cover SQLServer, SQLite, VirtualTable, and MySQL database connections.
 
 We will also have some audience participation to cover Firebird support through IBDAC and will touch on Oracle considerations. Anyone with experience in DevArt database connection products is welcome and encouraged to share your experience.

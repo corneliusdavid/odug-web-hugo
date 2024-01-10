@@ -8,8 +8,6 @@ image: 33_Delphi_11_SplashScreen-Final_632x400.jpg
 imageWidth: 500
 ---
 
-## TOPIC ##
-
 The next major version of RAD Studio was released last week. We'll take a look at [Delphi 11 Alexandria](https://blog.marcocantu.com/blog/2021-september-delphi-11-released.html) and discuss what it means for you.
 
 ## PRESENTER ##

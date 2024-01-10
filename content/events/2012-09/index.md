@@ -7,8 +7,6 @@ tags:
 image: xe3_worldtour_680x150v2.jpg
 ---
 
-## TOPIC ##
-
 Exciting new versions of Delphi and RAD Studio are coming soon. Be among the first to see what’s new in Delphi XE3 and in RAD Studio XE3 – including Delphi, C++Builder, Prism, InterBase and new HTML5 Builder at one of these free, live, launch tour events.
 
 Get ready to develop apps for Windows 8. Learn how to give your existing VCL and FireMonkey apps a new Windows 8 look and functionality.  See what’s new in FM2, the next generation FireMonkey application platform. And get a first look at the newest member of the RAD Studio family – HTML5 Builder!

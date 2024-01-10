@@ -7,8 +7,6 @@ image: Delphi27th-Featured-4319538.jpg
 imageWidth: 500
 ---
 
-## TOPIC ##
-
 February 14 marked the 27th anniversary of the release of Delphi. The meeting this month will focus on the history of Delphi, both reviewing products released over the years and how Delphi has impacted your life, career, or business.
 
 Please join us online and share your experience.

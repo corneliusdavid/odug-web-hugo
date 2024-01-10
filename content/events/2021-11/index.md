@@ -7,8 +7,6 @@ image: B16230_MockupCover_sm.png
 imageWidth: 400
 ---
 
-## TOPIC ##
-
 With the release of the book, [Fearless Cross-Platform Development for Delphi](https://www.packtpub.com/product/fearless-cross-platform-development-with-delphi/9781800203822) occurring in late October, the author will be at the meeting in November to talk about the writing process, example projects, and what he learned.
 
 Join **David Cornelius** and one of his technical reviewers, **Jonathan Eaton**, as they discuss the book and celebrate it's release.

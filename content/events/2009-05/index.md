@@ -6,8 +6,6 @@ tags:
 date: "2009-05-01T18:00:00-08:00"
 ---
 
-## TOPIC ##
-
 There is a saying that any technology that is sufficiently advanced is indistinguishable from magic!
 
 There are a lot of new features and language enhancements in the last three versions of Delphi that may seem like magic to those who do not know about them.  And there are some features that have been in Delphi for a long time that some don't realize are there.

@@ -7,7 +7,5 @@ date: "2010-08-01T18:00:00-08:00"
 image: radtour.png
 ---
 
-## TOPIC ##
-
 CodeGear Delphi 2010 Launch tour!
 
