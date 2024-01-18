@@ -16,15 +16,3 @@ The Hugo "source" for the site, in Markdown pages and TOML config files, is all 
 ## PRESENTER ##
 
 [David Cornelius](https://corneliusconcepts.tech/aboutme) develops software with Delphi, both at his [full-time job](https://www.cascadegovsoftware.com) and in his own business, [Cornelius Concepts, LLC](https://corneliusconcepts.com). He also builds websites and dabbles with Linux.
-
-## LOCATION ##
-
-**Round Table Pizza in Lake Oswego**  
-[16444 SW Boones Ferry RD  
-Lake Oswego, OR 97035](https://web.archive.org/web/20230207010600/https://www.google.com/maps/place/16444+Boones+Ferry+Rd,+Lake+Oswego,+OR+97035/@45.4071266,-122.7269712,17z/data=!3m1!4b1!4m5!3m4!1s0x549573187f99ebb1:0x5f89af436e58a610!8m2!3d45.4071266!4d-122.7247825)  
-503-636-3350
-
-## DATE/TIME ##
-
-Wednesday, January 17, 2024  
-6:00 - 8:00 PM
