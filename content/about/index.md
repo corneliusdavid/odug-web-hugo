@@ -1,6 +1,7 @@
 ---
 title: "About Us"
 showDate: false
+showTopic: false
 ---
 
 ## Meetings ##
