@@ -2,16 +2,16 @@ name: Update ODUG Website
 on: [push]
 jobs:
   rebuild-website:
-    runs-on: self-hosted
+    runs-on: ubuntu-latest
     steps:
       - name: Refresh website files from repository
-        run: cd ${{ vars.LOCAL_REPO }} && git pull origin master --recurse-submodules
+        run: git pull origin master --recurse-submodules
         shell: bash
           
       - name: Build HTML files for publishing
-        run: cd ${{ vars.LOCAL_REPO }} && hugo --minify --verbose
+        run: hugo --minify --buildFuture --verbose
         shell: bash
 
       - name: Push to the web
-        run: ${{ vars.LOCAL_REPO }}/upload.sh ${{ secrets.ODUG_SITE_HOST }} ${{ secrets.ODUG_SITE_USER }} ${{ secrets.ODUG_SITE_PASS }} ${{ vars.LOCAL_SRC }}  ${{ vars.DEST_FOLDER }}
+        run: upload.sh ${{ secrets.ODUG_SITE_HOST }} ${{ secrets.ODUG_SITE_USER }} ${{ secrets.ODUG_SITE_PASS }} ${{ vars.LOCAL_SRC }}  ${{ vars.DEST_FOLDER }}
         shell: bash  
