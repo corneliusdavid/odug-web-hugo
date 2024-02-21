@@ -1,0 +1,28 @@
+---
+title: 'Database Enabled RAD Server'
+date: 2024-03-20T20:54:16-08:00
+tags: 
+- 2024
+- RAD Server
+draft: true
+---
+
+This month, we'll continue exploring how to utilize RAD Server by hooking up a database and performing all four of the standard CRUD (Create, Read, Update, and Delete) operations via REST calls. Encoding binary files, such as bitmaps, will be part of the demonstration.
+
+Check back as the date draws near for more details and for the location.
+
+## PRESENTER ##
+
+[David Cornelius](https://corneliusconcepts.tech/aboutme) develops software with Delphi, both at his full-time [job](https://www.cascadegovsoftware.com) and in his own [business](https://corneliusconcepts.com). He also builds websites, dabbles with Linux, has written a [book](https://www.packtpub.com/product/fearless-cross-platform-development-with-delphi/9781800203822), and has a [blog](https://corneliusconcepts.tech).
+
+## DATE/TIME ##
+
+Wednesday, March 20, 2024
+6:00 - 8:00 PM
+
+## LOCATION ##
+
+**Round Table Pizza in Lake Oswego**
+[16444 SW Boones Ferry RD    
+Lake Oswego, OR 97035](https://web.archive.org/web/20230207010600/https://www.google.com/maps/place/16444+Boones+Ferry+Rd,+Lake+Oswego,+OR+97035/@45.4071266,-122.7269712,17z/data=!3m1!4b1!4m5!3m4!1s0x549573187f99ebb1:0x5f89af436e58a610!8m2!3d45.4071266!4d-122.7247825)    
+503-636-3350
