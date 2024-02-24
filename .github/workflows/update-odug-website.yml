@@ -6,6 +6,8 @@ jobs:
     steps:
       - name: Refresh website files from repository
         uses: actions/checkout@v2
+        with:
+          submodules: recursive
           
       - name: Build website with Hugo
         uses: jakejarvis/hugo-build-action@v0.111.3
