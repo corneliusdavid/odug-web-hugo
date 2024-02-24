@@ -5,13 +5,18 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Refresh website files from repository
-        run: git pull origin master --recurse-submodules
-        shell: bash
+        uses: actions/checkout@v2
           
-      - name: Build HTML files for publishing
-        run: hugo --minify --buildFuture --verbose
-        shell: bash
+      - name: Build website with Hugo
+        uses: jakejarvis/hugo-build-action@v0.111.3
+        with:
+            args: --minify --buildFuture
 
       - name: Push to the web
-        run: upload.sh ${{ secrets.ODUG_SITE_HOST }} ${{ secrets.ODUG_SITE_USER }} ${{ secrets.ODUG_SITE_PASS }} ${{ vars.LOCAL_SRC }}  ${{ vars.DEST_FOLDER }}
-        shell: bash  
+        uses: peaceiris/actions-gh-pages@v3
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: ./public
+          ftp_server: ${{ secrets.FTP_SERVER }}
+          ftp_username: ${{ secrets.FTP_USERNAME }}
+          ftp_password: ${{ secrets.FTP_PASSWORD }}
