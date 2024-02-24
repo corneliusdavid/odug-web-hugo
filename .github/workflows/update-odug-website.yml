@@ -6,8 +6,8 @@ jobs:
     steps:
       - name: Refresh website files from repository
         uses: actions/checkout@v4
-        with:
-          submodules: 'true'
+      - name: Checkout theme submodule
+        run: git submodule update --init --recursive
           
       - name: Build website with Hugo
         uses: jakejarvis/hugo-build-action@v0.111.3
