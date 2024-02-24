@@ -17,11 +17,9 @@ jobs:
         with:
             args: --minify --buildFuture
 
-      - name: Push to the web
-        uses: peaceiris/actions-gh-pages@v3
+      - name: Push to the Web
+        uses: SamKirkland/FTP-Deploy-Action@master
         with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
-          publish_dir: ./public
-          ftp_server: ${{ secrets.FTP_SERVER }}
-          ftp_username: ${{ secrets.FTP_USERNAME }}
-          ftp_password: ${{ secrets.FTP_PASSWORD }}
+          server: ${{ secrets.FTP_SERVER }}
+          username: ${{ secrets.FTP_USERNAME }}
+          password: ${{ secrets.FTP_PASSWORD }}
