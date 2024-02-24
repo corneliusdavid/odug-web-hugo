@@ -6,11 +6,12 @@ jobs:
     steps:
       - name: Refresh website files from repository
         uses: actions/checkout@v4
-      - name: Checkout theme submodule
-        run: git submodule update --init --recursive
+        with:
+          submodules: 'true'
+          path: /github/workspace/themes
           
       - name: Build website with Hugo
-        uses: jakejarvis/hugo-build-action@v0.111.3
+        uses: jakejarvis/hugo-build-action@master
         with:
             args: --minify --buildFuture
 
