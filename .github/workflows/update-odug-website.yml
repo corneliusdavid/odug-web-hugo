@@ -10,7 +10,7 @@ jobs:
         uses: actions/checkout@v4
         with:
           repository: corneliusdavid/hugo-pascalinia@master
-          path: /github/workspace/themes
+          path: themes/pascalinia
           
       - name: Build website with Hugo
         uses: jakejarvis/hugo-build-action@master
