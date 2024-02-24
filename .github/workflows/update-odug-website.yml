@@ -6,9 +6,11 @@ jobs:
     steps:
       - name: Refresh website files from repository
         uses: actions/checkout@v4
+      - name: Get theme submodule
+        uses: actions/checkout@v4
         with:
-          submodules: 'true'
-          path: /github/workspace/themes
+          repository: hugo-pascalinia
+          path: themes
           
       - name: Build website with Hugo
         uses: jakejarvis/hugo-build-action@master
