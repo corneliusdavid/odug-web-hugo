@@ -9,7 +9,7 @@ jobs:
       - name: Get theme submodule
         uses: actions/checkout@v4
         with:
-          repository: hugo-pascalinia
+          repository: corneliusdavid/hugo-pascalinia
           path: themes
           
       - name: Build website with Hugo
