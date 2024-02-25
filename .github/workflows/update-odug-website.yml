@@ -7,9 +7,14 @@ jobs:
       - name: Refresh website files from repository
         uses: actions/checkout@v4
         with: 
+          repository: corneliusdavid/odug-web-hugo
           ref: 'master'
-          submodules: 'true'
-          show-progress: 'true'
+          
+      - name: Get theme submodule
+        uses: actions/checkout@v4
+        with:
+          repository: corneliusdavid/hugo-pascalinia
+          path: themes/pascalinia
           
       - name: Build website with Hugo
         uses: jakejarvis/hugo-build-action@master
