@@ -5,32 +5,31 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Refresh website files from repository
+        env:
+          TZ: 'America/Los_Angeles'
         uses: actions/checkout@v4
           
       - name: Get theme submodule
+        env:
+          TZ: 'America/Los_Angeles'
         uses: actions/checkout@v4
         with:
           repository: corneliusdavid/hugo-pascalinia
           path: themes/pascalinia
           
       - name: Build website with Hugo
+        env:
+          TZ: 'America/Los_Angeles'
         uses: jakejarvis/hugo-build-action@master
         with:
             args: --minify --buildFuture  
             
-      - uses: actions/upload-artifact@master
-        with:
-          name: website
-          path: './public'
-
       - name: Push to the Web
-        uses: actions/download-artifact@v4
+        env:
+          TZ: 'America/Los_Angeles'
+        uses: SamKirkland/FTP-Deploy-Action@master
         with:
-          path: './public'
-          
-      - uses: SamKirkland/FTP-Deploy-Action@master
-        with:
-          local-dir: './public/'
+          local-dir: 'public/'
           server: ${{ secrets.FTP_SERVER }}
           username: ${{ secrets.FTP_USERNAME }}
           password: ${{ secrets.FTP_PASSWORD }}
