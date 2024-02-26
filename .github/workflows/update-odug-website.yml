@@ -22,7 +22,8 @@ jobs:
           TZ: 'America/Los_Angeles'
         uses: jakejarvis/hugo-build-action@master
         with:
-            args: --minify --buildFuture  
+          hugo-version: 'latest'
+          args: --minify --buildFuture  
             
       - name: Push to the Web
         env:
@@ -30,6 +31,7 @@ jobs:
         uses: SamKirkland/FTP-Deploy-Action@master
         with:
           local-dir: 'public/'
+          git-ftp-args: --insecure --all
           server: ${{ secrets.FTP_SERVER }}
           username: ${{ secrets.FTP_USERNAME }}
           password: ${{ secrets.FTP_PASSWORD }}
