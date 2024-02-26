@@ -14,14 +14,21 @@ jobs:
           path: themes/pascalinia
           
       - name: Build website with Hugo
-        uses: jakejarvis/hugo-build-action@master
+      - uses: jakejarvis/hugo-build-action@master
         with:
-            args: --minify --buildFuture
+            args: --minify --buildFuture    
+      - uses: actions/upload-artifact@master
+        with:
+          name: website
+          path: './public'
 
       - name: Push to the Web
-        uses: SamKirkland/FTP-Deploy-Action@master
+      - uses: actions/download-artifact@v4
         with:
-          local-dir: ./public/
+          path: './public'
+      - uses: SamKirkland/FTP-Deploy-Action@master
+        with:
+          local-dir: './public/'
           server: ${{ secrets.FTP_SERVER }}
           username: ${{ secrets.FTP_USERNAME }}
           password: ${{ secrets.FTP_PASSWORD }}
