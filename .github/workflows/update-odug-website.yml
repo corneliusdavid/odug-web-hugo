@@ -31,8 +31,8 @@ jobs:
           TZ: 'America/Los_Angeles'
         uses: SamKirkland/FTP-Deploy-Action@v4.3.4
         with:
-          local-dir: 'public/'
-          exclude: |
+          local-dir: public/
+          exclude:
             .ftp-deploy-sync-state.json
           server: ${{ secrets.FTP_SERVER }}
           username: ${{ secrets.FTP_USERNAME }}
