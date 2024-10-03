@@ -23,7 +23,7 @@ Some of the highlights will include:
  
 Ann will be available for any questions we may have about the components or the server app show-cased during the presentation.
 
-***Download the [ODUG Talk PDF](/presentations/2022-08_Rubicon/ODUG_Talk_2022-08-17_Rev4.pdf)***
+***Download the [ODUG Talk PDF](https://pub-b65d141fc18042458efda76234a17796.r2.dev/Rubicon/ODUG_Talk_2022-08-17_Rev4.pdf)***
 
 ## PRESENTER ##
 
