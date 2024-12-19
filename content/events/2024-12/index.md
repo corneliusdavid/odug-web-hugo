@@ -16,6 +16,8 @@ Here is an excellent (and fun to watch) video explaining what AoC is all about: 
 
 At this month's meeting, we'll read through some of the challenges, discuss possible solutions, and try solving some of the problems together. 
 
+EDIT: There were a few slides in a [PowerPoint](AdventOfCode2024.pptx) that I was going to show but forgot to put it on the laptop I brought to the meeting; you can download it [here](AdventOfCode2024.pptx). (Note: it may seem a little disjointed and incomplete but it does contain several links to interesting sites and was only going to be used to augment the time we spent in code.)
+
 ## DATE/TIME ##
 
 Wednesday, December 18, 2024
