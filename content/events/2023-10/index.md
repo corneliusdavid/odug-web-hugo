@@ -12,6 +12,10 @@ As the title says, this is an introduction. We will follow this in another meeti
  
 NOTE: This month's meeting is one week later than usual--the *fourth* Wednesday.
 
+***Download:***
+- [PowerPoint Slides](https://presentations.odug.org/2023-10_RAD_Server/IntroToRADServer.pptx)
+- [Recorded Presentation](https://presentations.odug.org/2023-10_RAD_Server/ODUG-IntroRADServer.mp4)
+
 ## PRESENTER ##
 
 [**David Cornelius**](https://corneliusconcepts.tech/aboutme) is a full-time Delphi developer and has been programming since the 1980s.
