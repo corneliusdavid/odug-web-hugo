@@ -6,16 +6,17 @@ tags:
 - Homer Jones
 - Indy
 - Installer
-image: FTP_ABS.png
 ---
 
-Homer Jones will show the code for a custom FTP server, the client application that uses it, and the installation script to get this all setup for the end user.
+Homer Jones will show the code for a custom FTP server, the client application that uses it, and the installation script to get this all set up for the end user
 
 <!--more-->
 
-Continuing from last month's presentation, Homer will show his custom FTP server that runs as a Windows Service using Indy 10 components. The form-based server discussed last month needed a lot of modifications for logging and error handling. There's a big difference between a form that allows you to see what's going on, and a service that must run unattended in the background, and keep running even when a caveman is the user.
+![](FTP_Users2.png)
 
-![](FTP_Users.png)The production client application that uses FTP (Document Manager) will be discussed, including precautions taken to gracefully handle server hiccups. Part of that strategy is being able to switch file access between FTP and File Shares as needed.
+Tonight's presentation continues from last month's where Homer will show his custom FTP server that runs as a Windows Service using Indy 10 components. The form-based server discussed last month needed a lot of modifications for logging and error handling. There's a big difference between a form that allows you to see what's going on, and a service that must run unattended in the background, and keep running even when a caveman is the user.
+
+The production client application that uses FTP (Document Manager) will be discussed, including precautions taken to gracefully handle server hiccups. Part of that strategy is being able to switch file access between FTP and File Shares as needed.
 
 Since this will be an upgrade to an existing production application, the installation of the FTP Server as a Windows service will be a little involved. Homer will show how an InnoSetup script installs the server app and not only makes it start automatically upon a Windows reboot but also start immediately upon the completion of the installation.
 
