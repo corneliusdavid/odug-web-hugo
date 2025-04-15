@@ -8,7 +8,7 @@ tags:
 - Installer
 ---
 
-Homer Jones will show the code for a custom FTP server, the client application that uses it, and the installation script to get this all set up for the end user
+Homer Jones will show the code for a custom FTP server, the client application that uses it, and the installation script to get this all set up for the end user.
 
 <!--more-->
 
