@@ -2,8 +2,10 @@ baseURL = 'https://odug.org'
 languageCode = 'en-us'
 title = 'Oregon Delphi User Group'
 theme = 'pascalinia'
-paginate = 25
 summaryLength = 70
+
+[pagination]
+  pagerSize = 25
 
 [taxonomies]
   tag  = 'Tags'

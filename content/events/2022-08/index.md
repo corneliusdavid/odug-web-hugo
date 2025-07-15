@@ -12,7 +12,7 @@ In August, we'll be honored with a special guest, [Ann Lynnworth](https://www.hr
 
 "Rubicon allows Delphi and C++Builder developers to add full-text search capabilities to their database applications, retaining control of data and indexing and providing both simple wild-card queries and complex search expressions. The components work with all major databases supported by RAD Studio, and even text, RTF, and HTML files. Results can be ranked, matching words automatically highlighted, and with Rubicon's pre-built indices, most searches take less than 1/10th of a second."
 
-In tonight's presentation, Ann will talk about design decisions around making a custom search engine that responds using the Delphi REST components in a DataSnap server application. It will be connected to a PostgreSQL database running in the Amazon cloud and will show how to queue and run searches in a way that makes sense for a multi-user, web-based environment.</p>
+In tonight's presentation, Ann will talk about design decisions around making a custom search engine that responds using the Delphi REST components in a DataSnap server application. It will be connected to a PostgreSQL database running in the Amazon cloud and will show how to queue and run searches in a way that makes sense for a multi-user, web-based environment.
 
 Some of the highlights will include:
  
