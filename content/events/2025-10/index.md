@@ -15,6 +15,13 @@ JSON, or **JavaScript Object Notation**, is a lightweight, text-based, human-rea
 
 This month's meeting will involve three different speakers, starting with a brief introduction of the JSON format and touching on its history and use. Then, we'll dive into the details of the syntax with code with demonstrations using both Delphi 2007 (using SuperObjects) and Delphi 12 (using its native System.JSON library). Finally, we'll explore and compare some of the many JSON libraries available for Delphi.
 
+_Resources_
+
+- [JSON Explained](/events//2025-10/Products_JSON_Explained.pdf)
+- [SuperObjects vs Delphi Native JSON](/events/2025-10/SuperObjectsVsDelphiNativeJSON.pdf) 
+
+
+
 ## PRESENTERS ##
 
 - David Cornelius - Introduction and library comparisons.
