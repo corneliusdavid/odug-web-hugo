@@ -17,7 +17,7 @@ This month's meeting will involve three different speakers, starting with a brie
 
 _Resources_
 
-- [JSON History](/events/2025-10/JSON-Intro.pptx) (PowerPoint)
+- [JSON History](/events/2025-10/JSON-History.pptx) (PowerPoint)
 - [JSON Explained](/events/2025-10/Products_JSON_Explained.pdf) (PDF)
 - [JSON Deep Dive with System.JSON](/events/2025-10/JSON_and_Delphi.pptx) (PowerPoint)
 - [SuperObjects vs Delphi System.JSON](/events/2025-10/SuperObjectsVsDelphiNativeJSON.pdf) (PDF)
