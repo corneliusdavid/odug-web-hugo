@@ -21,7 +21,9 @@ _Resources_
 - [JSON Explained](/events/2025-10/Products_JSON_Explained.pdf) (PDF)
 - [JSON Deep Dive with System.JSON](/events/2025-10/JSON_and_Delphi.pptx) (PowerPoint)
 - [SuperObjects vs Delphi System.JSON](/events/2025-10/SuperObjectsVsDelphiNativeJSON.pdf) (PDF)
--  Github projects:
+
+_Github projects:_
+
  - [TestJSON](https://github.com/hydrobyte/TestJSON) - Delphi project to test 17 different JSON libraries!
  - [JSONConvert](https://github.com/corneliusdavid/JSONConvert) - Delphi project to convert data from a SQLite to JSON
 
