@@ -1,5 +1,5 @@
 ---
-title: 'All About JSON'
+title: 'Add AI to your Delphi App'
 date: 2025-11-15T10:54:16-08:00
 tags: 
 - 2025
