@@ -5,7 +5,7 @@ tags:
 - 2025
 - Homer Jones
 - AI
-image: FirebirdAIsm.png
+image: FirebirdAIxsm.png
 ---
 
 Everyone is talking about AI these days. Many use AI to help with their programming. But what if you want the software you write to use AI or provide an AI interface to its users? Are your customers clamoring for AI-enabled apps? Are you afraid of losing business if you don't add it? What will it do?
@@ -40,7 +40,7 @@ Wednesday, November, 19 2025
 
 ## LOCATION ##
 
-**Olive Garden in Lake Oswego**  
-[6355 SW Meadows Rd.  
-Lake Oswego, OR 97035](https://www.olivegarden.com/locations/or/lake-oswego/lake-oswego/1394)  
-(503) 684-3160
+**Cooper Mountain Ale Works**  
+[12562 SW Main St.  
+Tigard, OR 97223](https://www.coopermountainaleworks.com/tigard)    
+​(503) 624-8900
