@@ -29,6 +29,10 @@ Homer Jones is adding that kind of capability to his application, and will demon
 
 You will see a live demonstration of real AI applied to a legacy application, and some of the code that runs behind the scenes.
 
+Resources
+
+- [Recorded Meeting](https://odug.org/events/2025-10/ODUG_Nov2025_Add_AI_to_Delphi.mp4) (1.7 GB)
+
 ## PRESENTER ##
 
 HOMER JONES is currently the president of [Agency Business Systems, Incorporated](https://agencybusys.com/), a Portland-based company providing business management software to the Insurance Industry. He has been programming with Delphi since it was first released 30 years ago.
