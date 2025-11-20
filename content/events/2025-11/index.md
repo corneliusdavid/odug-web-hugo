@@ -31,7 +31,7 @@ You will see a live demonstration of real AI applied to a legacy application, an
 
 Resources
 
-- [Recorded Meeting](https://odug.org/events/2025-10/ODUG_Nov2025_Add_AI_to_Delphi.mp4) (1.7 GB)
+- [Recorded Meeting](https://odug.org/events/2025-11/ODUG_Nov2025_Add_AI_to_Delphi.mp4) (1.7 GB)
 
 ## PRESENTER ##
 
