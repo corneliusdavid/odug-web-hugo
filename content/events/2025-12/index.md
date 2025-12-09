@@ -23,4 +23,7 @@ Wednesday, December, 17 2025
 
 ## LOCATION ##
 
-To be determined...
+**Round Table Pizza in Lake Oswego**  
+[16444 SW Boones Ferry RD    
+Lake Oswego, OR 97035](https://www.roundtablepizza.com/location/1231/)      
+503-636-3350
