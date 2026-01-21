@@ -28,6 +28,6 @@ Wednesday, January, 21 2026
 
 ## LOCATION ##
 
-[Olive Garden in Lake Oswego](https://www.olivegarden.com/locations/or/lake-oswego/lake-oswego/1394) 
-6355 SW Meadows Rd. 
+[Olive Garden in Lake Oswego](https://www.olivegarden.com/locations/or/lake-oswego/lake-oswego/1394)  
+6355 SW Meadows Rd.   
 Lake Oswego, OR 97035 
