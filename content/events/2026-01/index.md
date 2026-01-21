@@ -15,9 +15,11 @@ Using AI to help with research and documentation and testing has become a standa
 
 Using Claude Code, we will attempt to build a working Delphi Windows app from scratch without writing a line of code ourselves. To keep it simple and familiar, we'll use the VCL and a sample SQLite database. It won't be a terribly complicated application (we only have an hour!) but it will use a third-party component or two, perform some manipulation of data, and show some refactoring of the project, all live and with audience suggestions.
 
+*What is Vibe Coding? [When Artificial Intelligence Becomes Your Pair Programmer](https://ethea.it/docs/claudecode/vibe-coding-delphi-ENG.html)*
+
 ## PRESENTER ##  
 
-[DAVID CORNELIUS](https://corneliusconcepts.tech/aboutme) has full time [job](https://www.cascadegovsoftware.com/) as a Delphi developer where he uses AI every day, manages online websites and applications through his [business](https://corneliusconcepts.com/) with the help of AI, and studies tips and techniques every day to help improve his use of AI.
+[DAVID CORNELIUS](https://corneliusconcepts.tech/aboutme) has full time [job](https://www.cascadegovsoftware.com/) as a Delphi developer where he uses AI every day, manages online websites and applications through his [business](https://corneliusconcepts.com/) with the help of AI, and constantly studies tips and techniques to help improve his use of AI.
 
 ## DATE/TIME ##
 
