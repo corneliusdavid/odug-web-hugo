@@ -4,9 +4,10 @@ date: 2026-03-18T10:54:16-08:00
 tags:
 - 2026
 - AI
+image: FirebirdAI2xsm.png
 ---
 
-Homer Jones will present a follow-up to his talk [last November](https://odug.org/events/2025-11/), on adding AI support to his insurance agency management software with a modified plan that involves a proxy server. Additionally, more discussion on prompt engineering is in store for the evening.
+Homer Jones will present a follow-up to his talk [last November](https://odug.org/events/2025-11/), on adding AI support to his insurance agency management software. He will cover the Retrieval-Augmented Generation (RAG) method of using and controlling Large Language Model AI. We'll discuss Theory, Implementation, Best Practices, Prompt Engineering, how to make AI execute application events, and how to keep it from wandering off on it's own train of thought. There will be a code demonstration to show how it works as a real user assistant, even voice activated.
 
 ## PRESENTER ##
 
