@@ -1,0 +1,24 @@
+---
+title: 'AI Follow-Up'
+date: 2026-03-18T10:54:16-08:00
+tags:
+- 2026
+- AI
+---
+
+Homer Jones will present a follow-up to his talk [last November](https://odug.org/events/2025-11/), on adding AI support to his insurance agency management software with a modified plan that involves a proxy server. Additionally, more discussion on prompt engineering is in store for the evening.
+
+## PRESENTER ##
+
+HOMER JONES is currently the president of [Agency Business Systems, Incorporated](https://agencybusys.com/), a Portland-based company providing business management software to the Insurance Industry. He has been programming with Delphi since it was first released 30 years ago.
+
+## DATE/TIME ##
+
+Wednesday, March, 18 2026
+6:00 - 8:00 PM
+
+## LOCATION ##
+
+[Olive Garden in Lake Oswego](https://www.olivegarden.com/locations/or/lake-oswego/lake-oswego/1394)  
+6355 SW Meadows Rd.  
+Lake Oswego, OR 97035 
