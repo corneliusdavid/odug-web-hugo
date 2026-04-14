@@ -1,24 +1,24 @@
 ---
-title: 'Death and Taxes: Legacy Code that will Never Die!'
+title: 'Death and Taxes: The Delphi Applications that Just Won't Quit!'
 date: 2026-04-18T10:54:16-08:00
 tags:
 - 2026
-image: DeathAndProgramming900.png
+image: OldProgrammerStillKicking.png
 ---
 
-It is said there are two things you can always be sure of: Death and Taxes! Well, sometimes Delphi applications seem to fit in that category as well--but that's good thing if you're still making money with your good, old code base!
+They say two things in life are certain: death and taxes. Delphi applications might just be a third — and if yours is still generating revenue, that's something to celebrate, not apologize for.
 
 <!--more-->
 
 ---
 
-Do you maintain 20-year old code? Does your Delphi project still access data via the BDE? Are you stuck in an old version of Delphi because the components used were never upgraded?
+Are you maintaining code that predates social media? Still talking to a database through the BDE? Locked to an old Delphi version because a critical component vendor vanished years ago? You're not alone.
 
-One of the beauties of Delphi is that old Windows applications are workhorses that never get tired. Sometimes it's fun to look at the shiny new versions but reality often pulls us back to that old, familiar code base.
+One of Delphi's quiet superpowers is longevity. These aren't fragile web apps that break on a library update, they're workhorses. Boring, reliable, profitable workhorses.
 
-This month, we'll share stories of the applications we keep working for clients and how much longer we anticipate they'll last. Perhaps you've been able to upgrade some of them; we'll be interested in those stories as well!
+This month we're swapping war stories: the apps we keep breathing life into, the clients who depend on them, and how we honestly answer the question "how much longer?" If you've managed to modernize one of these old-timers — upgraded to FireDAC, moved to a newer Delphi version, refactored something you once thought was untouchable — we want to hear that too.
 
-However, as long as these applications have lasted, there will be an eventual death. Are you planning for it?
+But let's be honest: nothing lasts forever. Are you planning for the eventual end-of-life, or just hoping to outlive the code?
 
 
 ## DATE/TIME ##
