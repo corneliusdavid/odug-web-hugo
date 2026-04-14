@@ -1,5 +1,5 @@
 ---
-title: 'Death and Taxes: The Delphi Applications that Just Won't Quit!'
+title: 'Death & Taxes - And Delphi!'
 date: 2026-04-18T10:54:16-08:00
 tags:
 - 2026
