@@ -15,8 +15,6 @@ We'll take a look at a few of them tonight, along with some slick demos that tak
 Libraries:
 - [Quick.Console](https://github.com/exilon/QuickLib) Write log message to console with colors and more (part of [QuickLib](https://github.com/exilon/QuickLib) by [Exilon Software](https://github.com/exilon))
 - [Consoles](https://github.com/rvelthuis/Consoles) a replacement for the old Turbo Pascal DOS Crt unit (from [Rudy Velthuis](http://www.rvelthuis.de/programs/console.html))
-- [DelphiConsole](https://github.com/JensBorrisholt/DelphiConsole) C# class ported to Delphi ([JensBorrisholt](https://github.com/JensBorrisholt?tab=repositories))
-- [EasyConsole](https://github.com/JensBorrisholt/EasyConsole) Simple menu interface for Delphi console apps ([JensBorrisholt](https://github.com/JensBorrisholt?tab=repositories))
 - [Console](https://github.com/interestingitems/tbg_Console) Modern console utility class for Delphi from [tinyBigGAMES](https://tinybiggames.com/)
 - [VSoft.AnsiConsole](https://github.com/VSoftTechnologies/VSoft.AnsiConsole) A Delphi library for writing rich, interactive console applications - the "Cadillac" of these repositories! (ported from [Spectre.Console](https://github.com/spectreconsole/spectre.console) by [Vincent Parrett](https://github.com/VSoftTechnologies))
 - [VSoft.System.Console](https://github.com/VSoftTechnologies/VSoft.System.Console) A Delphi port of the .NET System.Console class and the single dependeny of VSoft.AnsiConsole (by [Vincent Parrett](https://github.com/VSoftTechnologies))
