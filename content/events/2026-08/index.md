@@ -25,6 +25,8 @@ Extra Reading
 - [Terminal escape codes are awesome, here’s why](https://medium.com/israeli-tech-radar/terminal-escape-codes-are-awesome-heres-why-c8eb938b1a1c) Deep dive into the history and technical details
 - [SpectreConsole.net](https://spectreconsole.net/console/) Documents a C# class but is a great companion read with many explanations
 
+NOTE: The demos from three of the repositories (QuickLib, Velthuis.Consoles, and VSoft.System.Console) along with a simple "JustWriteln" demo, are in the Github repository, [Console Demos for ODUG](https://github.com/corneliusdavid/ConsoleDemosForODUG).
+
 
 ## DATE/TIME ##
 
